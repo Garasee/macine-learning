@@ -1,3 +1,7 @@
 *.ipynb_checkpoints
 *.log
 catboost_info
+.idea
+.vscode
+out
+env
